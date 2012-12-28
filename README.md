@@ -7,7 +7,7 @@ For more information see my blog: http://exponentialdecay.co.uk/blog/data-as-art
 
 Requires: Python Image Library - http://www.pythonware.com/products/pil/
 
-###License:
+###License: 
 
 This app and it's supporting files are licensed as Beerware: https://github.com/ross-spencer/binary-primes/blob/master/license.md
 
