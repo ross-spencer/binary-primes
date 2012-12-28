@@ -7,7 +7,7 @@ For more information see my blog: http://exponentialdecay.co.uk/blog/data-as-art
 
 Requires: Python Image Library - http://www.pythonware.com/products/pil/
 
-**Scope Creep**
+###License:
 
-In addition to producing an image with prime numbers you can elect to 
-create binary patterns with non-primes. 
+This app and it's supporting files are licensed as Beerware: https://github.com/ross-spencer/binary-primes/blob/master/license.md
+
